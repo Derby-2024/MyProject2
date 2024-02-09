@@ -28,3 +28,5 @@
 *.icns lfs
 # Movies
 *.bk2 lfs
+
+CODEOWNERS merge=ours
