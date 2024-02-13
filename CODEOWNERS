@@ -2,7 +2,7 @@
 * @Derby-2024/programming-leads
 
 # Files inside content project folder managed by all leads
-/Content/MyProject2/ @Derby-2024/programming-leads @Derby-2024/cgma-leads
+/Content/ @Derby-2024/programming-leads @Derby-2024/cgma-leads
 
 # Blueprints and C++ managed by programming leads
 /Source/ @Derby-2024/programming-leads
